@@ -46,5 +46,3 @@ for(let i=0; i<10; i++) {
 
 
 
-// 753789895976-ue2tq2pspa1qjdbf4mj237tnhor2r8au.apps.googleusercontent.com
-// POJ9BVBqAIDV6xSwGt4JH1_t
